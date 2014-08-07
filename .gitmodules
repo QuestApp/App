@@ -1,0 +1,3 @@
+[submodule "www"]
+	path = www
+	url = https://jeffreydd@github.com/QuestApp/JSClient.git
